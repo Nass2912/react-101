@@ -1,4 +1,6 @@
-﻿<a name="br1"></a> 
+To run this project, dowload it, do npm install and then npm start
+ 
+ <a name="br1"></a> 
 
 101
 
