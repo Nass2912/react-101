@@ -1,70 +1,206 @@
-# Getting Started with Create React App
+﻿<a name="br1"></a> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+101
 
-## Available Scripts
+**The power of UI Components, states and props**
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<a name="br2"></a> 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Intro to React**
 
-### `npm test`
+**Why choose React?**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Components**
 
-### `npm run build`
+**State et Props**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Live Code – Create a Landing Page**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Applications built with React**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<a name="br3"></a> 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Introduction**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+<a name="br4"></a> 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+React is an open source javascript library created by
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+:
 
-### Code Splitting
+Popular among developers and now widely used in
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+the software industry for Application development
 
-### Analyzing the Bundle Size
+and Web Development
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+React’s greatest advantage resides in it’s
 
-### Making a Progressive Web App
+performance and flexibility when using reusable
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+components
 
-### Advanced Configuration
+React also provides numerous functionalities to
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+develop complex applications
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+<a name="br5"></a> 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**How to Install React ?**
+
+ꢀ
+
+
+
+<a name="br6"></a> 
+
+Pré-requis
+
+And any of your favorite IDE ;)
+
+
+
+<a name="br7"></a> 
+
+**Install your first React App**
+
+npx create-react-app name\_your\_app
+
+
+
+<a name="br8"></a> 
+
+**File Structure of the newly created React App**
+
+**node\_modules : File containing external dependencies our project need to run correctly**
+
+**public : Contains static files accessible from the browser when the app is compiled**
+
+**src The file where we will write and keep the source code of our app**
+
+
+
+<a name="br9"></a> 
+
+**Launch the React App**
+
+npm start
+
+
+
+<a name="br10"></a> 
+
+**Components**
+
+
+
+<a name="br11"></a> 
+
+A react component is a reusable component for the construction of User
+
+Interface Components
+
+These components are created by combining JavaScript, HTML and css.
+
+Tw o ways to write it class based or functional
+
+React components follow a hierarchical Approach
+
+Parent components transmit props to their child components
+
+The child elements can also have states which belong to them alone,
+
+which are likely to change in time
+
+
+
+<a name="br12"></a> 
+
+
+
+<a name="br13"></a> 
+
+**Livecode – Create our first component**
+
+
+
+<a name="br14"></a> 
+
+**Difference between a class component**
+
+**and functional component**
+
+
+
+<a name="br15"></a> 
+
+**(State & Props)**
+
+
+
+<a name="br16"></a> 
+
+State :
+
+State is internal data for a component which can be modified and
+
+change the component’s behaviour
+
+The goal of state in React is to store and manage data for dynamic
+
+components
+
+When the state of a component change, React automatically updates the
+
+UI to reflect those changes
+
+(Props) :
+
+Properties are values passed from a parent component to a child
+
+component.
+
+They allow us to transmit information and features from parent to child.
+
+Props are not mutable, you cannot change it inside of the receiving
+
+component
+
+
+
+<a name="br17"></a> 
+
+**Livecode - State & Props**
+
+
+
+<a name="br18"></a> 
+
+**Livecode - Landing Page**
+
+
+
+<a name="br19"></a> 
+
+**Takeaway**
+
+
+
+<a name="br20"></a> 
+
+
+
+<a name="br21"></a> 
+
+**Thank You !**
+
+**❤️**
+
